@@ -28,4 +28,4 @@ aux_links:
 footer_content: "Copyright &copy; 2019 Jani Suista. <a href=\"https://github.com/janisuista/janisuista.github.io/tree/master/LICENSE.txt\">GNU General Public License v3.0</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: dark
+color_scheme: nil
