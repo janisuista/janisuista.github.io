@@ -1,10 +1,9 @@
 locale                   : "fi-FI"
-title                    : "janisuista.github.io"
+title                    : "Materiaali web-ohjelmointi-kurssille"
 title_separator          : "-"
 url                      : "https://janisuista.github.io"
-baseurl                  : "/janisuista.github.io"
-repository               : "janisuista/janisuista.github.io"
-
+baseurl                  : "/web-material"
+repository               : "janisuista/web-material"
 remote_theme             : pmarsceill/just-the-docs
 
 permalink: pretty
