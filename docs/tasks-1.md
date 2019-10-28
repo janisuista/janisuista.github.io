@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Code
-parent: Harjoitustehtävät #1
+title: Harjoitustehtävät #1
 nav_order: 1
 ---
 
