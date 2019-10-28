@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Harjoitustehtävät #1
-nav_order: 1
+nav_order: 10
 ---
 
-# Code
+# Tehtävälista
 {: .no_toc }
 
 1. Selitä omin sanoin, mikä on HTML:n rooli / tarkoitus web-kehityksessä.
